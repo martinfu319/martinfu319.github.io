@@ -1,0 +1,32 @@
+body{
+    background-color: #72795c; 
+  
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+.nav-item .nav-link{
+    color: white;
+}
+
+.container{
+    justify-content: space-between;
+}
+
+.intro{
+    color: whitesmoke;
+    display: flex;
+    flex-grow: 1;
+    gap: 2px;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.logo{
+    display: inline-block;
+    width: 300px;
+    flex-shrink: 0;
+}
